@@ -3,6 +3,7 @@
 Created on Tue Sep 22 19:16:14 2020
 
 @author: Nagesh
+# code taken from https://data-flair.training/blogs/python-project-traffic-signs-recognition/
 """
 
 
